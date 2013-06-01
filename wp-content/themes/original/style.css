@@ -1,0 +1,73 @@
+/*
+Theme Name: mikansoncho
+Theme URI: http://example.com/
+Description: sample
+Version: 1.0
+Author: mikansoncho333
+Author URI: http://example.com/
+*/
+
+body {
+    font-size: 14px;
+    font-family: Arial, Verdana;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    padding-bottom: 14px;
+    margin: 0;
+    line-height: 1.8;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    overflow: hidden; 
+}
+
+/* header */
+
+#header {
+    
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 15px 0;
+}
+
+.menu {
+    background: #f39800;
+    margin-bottom: 30px;
+    font-size: 12px;
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+.menu > li {
+    float: left;
+    width: 150px;
+    text-align: center;
+}
+
+.menu a {
+    padding: 10px 0;
+    color: #fff;
+    display: block;
+}
+menu a:hover {
+    background: #ffc35c;
+}
+
+/* sidebar */
+
+#sidebar {
+    float: right;
+    width: 150px;
+}
+.
